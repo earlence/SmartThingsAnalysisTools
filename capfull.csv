@@ -1,0 +1,64 @@
+capability.refresh,,refresh
+capability.colorTemperature,colorTemperature,setColorTemperature
+capability.ultravioletIndex,ultravioletIndex,
+capability.thermostatFanMode,thermostatFanMode,fanOn fanAuto fanCirculate setThermostatFanMode
+capability.garageDoorControl,door,open close
+capability.configuration,,configure
+capability.speechRecognition,phraseSpoken,
+capability.carbonMonoxideDetector,carbonMonoxide,
+capability.battery,battery,
+capability.estimatedTimeOfArrival,eta,
+capability.waterSensor,water,
+capability.touchSensor,touch,
+capability.contactSensor,contact,
+capability.threeAxis,threeAxis,
+capability.healthCheck,checkInterval,ping
+capability.button,button,
+capability.thermostatHeatingSetpoint,heatingSetpoint,setHeatingSetpoint
+capability.polling,,poll
+capability.tone,,beep
+capability.thermostatSchedule,schedule,setSchedule
+capability.videoCamera,camera statusMessage mute settings,on off mute unmute flip
+capability.relativeHumidityMeasurement,humidity,
+capability.sleepSensor,sleeping,
+capability.imageCapture,image,take
+capability.indicator,indicatorStatus,indicatorWhenOn indicatorWhenOff indicatorNever
+capability.thermostatOperatingState,thermostatOperatingState,
+capability.locationMode,mode,
+capability.alarm,alarm,off strobe siren both
+capability.contactSensor,contact,
+capability.lock,lock,lock unlock
+capability.beacon,presence,
+capability.notification,,deviceNotification
+capability.thermostatMode,thermostatMode,off heat emergencyHeat cool auto setThermostatMode
+capability.thermostatCoolingSetpoint,coolingSetpoint,setCoolingSetpoint
+capability.videoCapture,clip,capture
+capability.powerMeter,power,
+capability.relaySwitch,switch,on off
+capability.thermostat,temperature heatingSetpoint coolingSetpoint thermostatSetpoint thermostatMode thermostatFanMode thermostatOperatingState,setHeatingSetpoint setCoolingSetpoint off heat emergencyHeat cool setThermostatMode fanOn fanAuto fanCirculate setThermostatFanMode auto
+capability.tV,volume channel power picture sound movieMode,volumeUp volumeDown channelUp channelDown
+capability.testCapability,,
+capability.stepSensor,steps goal,
+capability.mediaController,activities currentActivity,startActivity getAllActivities getCurrentActivity
+capability.actuator,,
+capability.doorControl,door,open close
+capability.valve,contact,open close
+capability.momentary,,push
+capability.sensor,,
+capability.switchLevel,level,setLevel
+capability.motionSensor,motion,
+capability.lockCodes,lock codeReport codeChanged,lock unlock updateCodes setCode deleteCode requestCode reloadAllCodes
+capability.zwMultichannel,epEvent epInfo,enableEpEvents epCmd
+capability.speechSynthesis,,speak
+capability.presenceSensor,presence,
+capability.energyMeter,energy,
+capability.accelerationSensor,acceleration,
+capability.switch,switch,on off
+capability.illuminanceMeasurement,illuminance,
+capability.colorControl,hue saturation color,setHue setSaturation setColor
+capability.thermostatSetpoint,thermostatSetpoint,
+capability.smokeDetector,smoke,
+capability.temperatureMeasurement,temperature,
+capability.musicPlayer,status level trackDescription trackData mute,play pause stop nextTrack playTrack setLevel playText mute previousTrack unmute setTrack resumeTrack restoreTrack
+capability.doorControl,door,open close
+capability.signalStrength,lqi rssi,

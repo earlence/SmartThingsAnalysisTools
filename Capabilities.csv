@@ -1,0 +1,47 @@
+Acceleration Sensor,capability.accelerationSensor,acceleration,
+Actuator,capability.actuator,,
+Alarm,capability.alarm,alarm,off strobe siren both
+Battery,capability.battery,battery,
+Beacon,capability.beacon,presence,
+Button,capability.button,button,
+Carbon Monoxide Detector,capability.carbonMonoxideDetector,carbonMonoxide,
+Color Control,capability.colorControl,hue saturation color,setHue setSaturation setColor
+Configuration,capability.configuration,,configure
+Contact Sensor,capability.contactSensor,contact,
+Door Control,capability.doorControl,door,open close
+Energy Meter,capability.energyMeter,energy,
+Illuminance Measurement,capability.illuminanceMeasurement,illuminance,
+Image Capture,capability.imageCapture,image,take
+Lock,capability.lock,lock,lock unlock
+Media Controller,capability.mediaController,activities currentActivity,startActivity getAllActivities getCurrentActivity
+Momentary,capability.momentary,,push
+Motion Sensor,capability.motionSensor,motion,
+Music Player,capability.musicPlayer,status level trackDescription trackData mute,play pause stop nextTrack playTrack setLevel playText mute previousTrack unmute setTrack resumeTrack restoreTrack
+Notification,capability.notification,,deviceNotification
+Polling,capability.polling,,poll
+Power Meter,capability.powerMeter,power,
+Presence Sensor,capability.presenceSensor,presence,
+Refresh,capability.refresh,,refresh
+Relative Humidity Measurement,capability.relativeHumidityMeasurement,humidity,
+Relay Switch,capability.relaySwitch,switch,on off
+Sensor,capability.sensor,,
+Signal Strength,capability.signalStrength,lqi rssi,
+Sleep Sensor,capability.sleepSensor,sleeping,
+Smoke Detector,capability.smokeDetector,smoke,
+Speech Synthesis,capability.speechSynthesis,,speak
+Step Sensor,capability.stepSensor,steps goal,
+Switch,capability.switch,switch,on off
+Switch Level,capability.switchLevel,level,setLevel
+Temperature Measurement,capability.temperatureMeasurement,temperature,
+Thermostat,capability.thermostat,temperature heatingSetpoint coolingSetpoint thermostatSetpoint thermostatMode thermostatFanMode thermostatOperatingState,setHeatingSetpoint setCoolingSetpoint off heat emergencyHeat cool setThermostatMode fanOn fanAuto fanCirculate setThermostatFanMode auto
+Thermostat Cooling Setpoint,capability.thermostatCoolingSetpoint,coolingSetpoint,setCoolingSetpoint
+Thermostat Fan Mode,capability.thermostatFanMode,thermostatFanMode,fanOn fanAuto fanCirculate setThermostatFanMode
+Thermostat Heating Setpoint,capability.thermostatHeatingSetpoint,heatingSetpoint,setHeatingSetpoint
+Thermostat Mode,capability.thermostatMode,thermostatMode,off heat emergencyHeat cool auto setThermostatMode
+Thermostat Operating State,capability.thermostatOperatingState,thermostatOperatingState,
+Thermostat Setpoint,capability.thermostatSetpoint,thermostatSetpoint,
+Three Axis,capability.threeAxis,threeAxis,
+Tone,capability.tone,,beep
+Touch Sensor,capability.touchSensor,touch,
+Valve,capability.valve,contact,open close
+Water Sensor,capability.waterSensor,water,
